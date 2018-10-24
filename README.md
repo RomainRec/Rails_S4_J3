@@ -28,4 +28,10 @@ Dès que tout est téléchargé fait un $> bundle install dans chaque dossiers p
 
 Romain Recher slack  @RomainRecher 
 
+### Ressources utilisées : 
+https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
+https://guides.rubyonrails.org/association_basics.html
+https://www.youtube.com/watch?v=UsuFC9-Irzw&feature=youtu.be
+
+
 # Have fun !!
