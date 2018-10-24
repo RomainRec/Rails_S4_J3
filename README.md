@@ -21,7 +21,7 @@ Pour récupérer tout le package :
    $> git clone https://github.com/RomainRec/Rails_S4_J3.git
 ```
 
-Dès que tout est téléchargé fait un \$> bundle install\ dans chaque dossiers pour installer les Gems !
+Dès que tout est téléchargé fait un $> bundle install dans chaque dossiers pour installer les Gems !
 
 ### Contributeur : 
 :point_down::point_down::point_down::point_down:
